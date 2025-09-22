@@ -40,7 +40,7 @@ Focused on professionalism, reliability, and impact-driven technology.
 
 ## 🤝 Let’s Connect  
 - LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
-- Twitter: [Your Handle](https://twitter.com/your-handle)  
+- Twitter: [Your Handle](https://x.com/dancan_kinyoda)  
 - Email: **dancankinyoda20@example.com**  
 
 ---
