@@ -6,7 +6,7 @@ Focused on professionalism, reliability, and impact-driven technology.
 ---
 
 ## 💡 What I Do  
-- **Web & System Development** – React, PHP, CodeIgniter, JavaScript  
+- **Web & System Development** – React, Python, Django, PHP, CodeIgniter, JavaScript  
 - **Database & Backend** – MySQL, REST APIs, system integrations  
 - **Cybersecurity Enthusiast** – secure coding & system hardening  
 - **Technical Support** – IT support, hardware/software maintenance, networks  
@@ -15,13 +15,13 @@ Focused on professionalism, reliability, and impact-driven technology.
 
 ## 🛠️ Tech Stack  
 **Languages & Frameworks**  
-- JavaScript · React · PHP · CodeIgniter  
+- JavaScript · React-Bootstrap · Python . Django · CodeIgniter . PHP 
 
 **Databases & Tools**  
-- MySQL · XAMPP · Postman  
+- MySQL · XAMPP · Postman . 
 
 **UI/UX & Styling**  
-- Bootstrap · TailwindCSS · Framer Motion  
+- Bootstrap · TailwindCSS · ShadCn . Framer Motion 
 
 ---
 
@@ -39,7 +39,7 @@ Focused on professionalism, reliability, and impact-driven technology.
 ---
 
 ## 🤝 Let’s Connect  
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
+- LinkedIn: [Your Profile](https://linkedin.com/in/dancan-kinyoda)  
 - Twitter: [Your Handle](https://x.com/dancan_kinyoda)  
 - Email: **dancankinyoda20@example.com**  
 
